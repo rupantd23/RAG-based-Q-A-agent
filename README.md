@@ -41,7 +41,7 @@ Mac/Linux:
 export GOOGLE_API_KEY="your_actual_api_key_here"
 ```
 ### 4. Running the Agent
-** Execute the Python script to start the interactive terminal session:: 
+**Execute the Python script to start the interactive terminal session:: 
 ```bash
 python main.py
 ```
